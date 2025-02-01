@@ -50,15 +50,34 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    padding: 40px 5%; 
   }
 
   .text {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center; 
+  }
+
+  .text h2 {
+    font-size: 50px;
+  }
+
+  .text p {
+    font-size: 24px; 
   }
 
   .links {
     align-items: center;
+    gap: 18px; 
+  }
+
+  .link {
+    gap: 15px; 
+  }
+
+  .link a {
+    font-size: 24px; 
   }
 }
