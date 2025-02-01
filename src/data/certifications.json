@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Programming in Java",
+        "issuedBy": "NPTEL",
+        "issuedOn": "Jan, 2021",
+        "credentialID": "NPTEL20CS58S51210887",
+        "imageSrc": "certifications/nptel.png"
+    },
+    {
+        "name": "Artficial Intelligence Search Methods",
+        "issuedBy": "NPTEL",
+        "issuedOn": "Jan, 2021",
+        "credentialID": "NPTEL20CS81S61210781",
+        "imageSrc": "certifications/nptel.png"
+    },
+    {
+        "name": "Industrial Program on Machine Learning",
+        "issuedBy": "1Stop.ai",
+        "issuedOn": "Sep, 2021",
+        "credentialID": "BTV-2109000526",
+        "imageSrc": "certifications/1stopai.png"
+    },
+    {
+        "name": "Web development using HTML",
+        "issuedBy": "IBM",
+        "issuedOn": "Dec, 2022",
+        "credentialID": "bbb3226cfc354509b2586966f2be6d44",
+        "imageSrc": "certifications/ibm.png"
+    },
+    {
+        "name": "Complete Python developer",
+        "issuedBy": "Udemy",
+        "issuedOn": "Aug, 2020",
+        "credentialID": "UC-ff7bf958-bffe-454d-a591-99125d2dcbe1",
+        "imageSrc": "certifications/udemy.png"
+    },
+    {
+        "name": "Security, Compliance, and Identity Fundamentals",
+        "issuedBy": "Microsoft",
+        "issuedOn": "Dec, 2022",
+        "credentialID": "sL6m-XMVG",
+        "imageSrc": "certifications/microsoft.png"
+    }
+  ]
+  

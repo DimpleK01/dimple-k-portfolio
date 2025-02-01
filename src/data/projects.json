@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Vapor Kitchen Food Delivery Website",
+    "imageSrc": "projects/vaporKitchen.jpg",
+    "description": "This is an On Campus Food delivery website using Google firebase real time database.",
+    "skills": ["Python", "Firebase", "Flask", "CSS", "JS"],
+    "demo": "https://vapor-kitchen-food-delivery.vercel.app/",
+    "source": "https://github.com/DimpleK01/Vapor_Kitchen_website"
+  },
+  {
+    "title": "Product Review Sentiment Analyzer",
+    "imageSrc": "projects/sentiment.jpg",
+    "description": "Analyses the review and predicts if the review is positive, negative or neutral",
+    "skills": ["Machine Learning", "Python", "HTML"],
+    "source": "https://github.com/DimpleK01/Product_Review_Sentiment_Analyser"
+  },
+  {
+    "title": "Cats vs Dogs",
+    "imageSrc": "projects/catsvsdogs.jpg",
+    "description": "ML model that predicts if the picture is of a cat or a dog using Convolutional Neural Network (CNN)",
+    "skills": ["Machine Learning", "Python", "CNN"],
+    "source": "https://github.com/DimpleK01/Cats_vs_Dogs"
+  },
+  {
+    "title": "Iris Classification",
+    "imageSrc": "projects/iris.jpg",
+    "description": "ML model that predicts predicts class of Iris: Iris-setosa, Iris-versicolor or Iris-verginica, based on parameters like sepal length, petal length, etc.",
+    "skills": ["Machine Learning", "Python"],
+    "source": "https://github.com/DimpleK01/Iris_classification_prediction_model"
+  },
+  {
+    "title": "False Flag ",
+    "imageSrc": "projects/project.png",
+    "description": "An approach to conceal the device's geo-location. Copyright granted on 22/05/2023, Registration no: SW-17883/2023. Patent Application RQ Filed on 04/02/2022, Application no: 202241005982",
+    "skills": ["Networking", "Security", "Python"]
+  }
+]

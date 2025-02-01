@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Mobileum",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Contributed to the development and enhancement of the scripting software, introducing new features that improved speed to detect issues, boosted analytical efficiency, and minimized customer disruptions.", 
+      "Worked extensively with technologies and frameworks including Java, SQL, JDBC, WebSockets, REST APIs, Maven, Object-Oriented Programming, Tomcat, and Git.",
+      "Performed detailed investigations into critical issues, implementing effective solutions that enhanced software performance."
+    ],
+    "imageSrc": "history/mobileum.png"
+  },
+  {
+    "role": "Internship Trainee",
+    "organisation": "Mobileum",
+    "startDate": "Aug, 2022",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Contributed to the development and testing of a streamlined drag-and-drop automation framework that enables real-time testing and monitoring of voice, messaging, and OTT app performance across diverse networks and devices remotely.",
+      "Played a key role in migrating hybrid application test cases to scripting-based test cases, earning recognition as a Team Star for outstanding performance.",
+      "Gained hands-on experience in product workflows, software development, testing methodologies, and problem-solving techniques."
+    ],
+    "imageSrc": "history/mobileum.png"
+  }
+]
