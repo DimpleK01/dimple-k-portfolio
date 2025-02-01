@@ -94,7 +94,7 @@
 
 .historyItemDetails ul {
   text-align: justify;
-  text-justify: inter-word;
+  text-justify: auto;
   margin-top: 6px;
   list-style-position: inside;
   font-size: 25px;
@@ -119,4 +119,9 @@
     width: 100%;
     gap: 9px;
   }
+
+  .historyItemDetails ul {
+    font-size: 20px;
+  }
+  
 }
