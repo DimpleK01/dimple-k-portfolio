@@ -1,37 +1,46 @@
 [
   {
-    "title": "Vapor Kitchen Food Delivery Website",
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.jpg",
+    "description": "Personal portfolio showcasing projects, experience, and skills. Built with React and Vite, featuring modern UI with gradient backgrounds and smooth animations.",
+    "skills": ["React", "Vite", "CSS", "JavaScript"],
+    "demo": "https://dimplek01.github.io/dimple-k-portfolio/",
+    "source": "https://github.com/DimpleK01/dimple-k-portfolio"
+  },
+  {
+    "title": "Vapor Kitchen Food Delivery",
     "imageSrc": "projects/vaporKitchen.jpg",
-    "description": "This is an On Campus Food delivery website using Google firebase real time database.",
-    "skills": ["Python", "Firebase", "Flask", "CSS", "JS"],
+    "description": "On-campus food delivery web application with real-time database integration. Features order management, user authentication, and live order tracking.",
+    "skills": ["React", "Firebase", "REST APIs", "CSS"],
     "demo": "https://vapor-kitchen-food-delivery.vercel.app/",
     "source": "https://github.com/DimpleK01/Vapor_Kitchen_website"
   },
   {
     "title": "Product Review Sentiment Analyzer",
     "imageSrc": "projects/sentiment.jpg",
-    "description": "Analyses the review and predicts if the review is positive, negative or neutral",
-    "skills": ["Machine Learning", "Python", "HTML"],
+    "description": "Machine learning model that analyzes product reviews and classifies sentiment as positive, negative, or neutral using natural language processing.",
+    "skills": ["Python", "Machine Learning", "NLP", "HTML"],
     "source": "https://github.com/DimpleK01/Product_Review_Sentiment_Analyser"
   },
   {
-    "title": "Cats vs Dogs",
+    "title": "Cats vs Dogs Image Classifier",
     "imageSrc": "projects/catsvsdogs.jpg",
-    "description": "ML model that predicts if the picture is of a cat or a dog using Convolutional Neural Network (CNN)",
-    "skills": ["Machine Learning", "Python", "CNN"],
+    "description": "Deep learning CNN model trained to classify images as either cats or dogs. Achieved high accuracy through data augmentation and transfer learning techniques.",
+    "skills": ["Python", "Machine Learning", "CNN", "TensorFlow"],
     "source": "https://github.com/DimpleK01/Cats_vs_Dogs"
   },
   {
-    "title": "Iris Classification",
+    "title": "Iris Classification Model",
     "imageSrc": "projects/iris.jpg",
-    "description": "ML model that predicts predicts class of Iris: Iris-setosa, Iris-versicolor or Iris-verginica, based on parameters like sepal length, petal length, etc.",
-    "skills": ["Machine Learning", "Python"],
+    "description": "Supervised learning model predicting iris flower species (Setosa, Versicolor, Virginica) based on sepal and petal measurements.",
+    "skills": ["Python", "Machine Learning", "Scikit-learn"],
     "source": "https://github.com/DimpleK01/Iris_classification_prediction_model"
   },
   {
-    "title": "False Flag ",
+    "title": "False Flag - Geo-Location Concealment",
     "imageSrc": "projects/project.png",
-    "description": "An approach to conceal the device's geo-location. Copyright granted on 22/05/2023, Registration no: SW-17883/2023. Patent Application RQ Filed on 04/02/2022, Application no: 202241005982",
-    "skills": ["Networking", "Security", "Python"]
+    "description": "Innovative security solution for device geo-location concealment. Patent application pending. Copyright granted 05/22/2023 (SW-17883/2023).",
+    "skills": ["Networking", "Security", "Python"],
+    "source": "#"
   }
 ]

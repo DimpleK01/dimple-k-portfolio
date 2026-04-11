@@ -7,7 +7,10 @@ import { getImageUrl } from "../../utils";
 export const Certifications = () => {
   return (
     <section className={styles.container} id="certifications">
-      <h2 className={styles.title}>Certifications</h2>
+      <div className={styles.header}>
+        <h2 className={styles.title}>Certifications</h2>
+        <p className={styles.subtitle}>Continuous learning and professional development</p>
+      </div>
       <div className={styles.content}>
         <ul className={styles.certificationItems}>
           {certificates.map((certificate, id) => {

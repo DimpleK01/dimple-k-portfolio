@@ -4,11 +4,19 @@
     "imageSrc": "skills/java.png"
   },
   {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
   },
   {
-    "title": "Rest APIs",
+    "title": "REST APIs",
     "imageSrc": "skills/rest.png"
   },
   {
@@ -16,11 +24,27 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Vue.js",
+    "imageSrc": "skills/vuejs.png"
+  },
+  {
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "CSS",
     "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "WebSockets",
+    "imageSrc": "skills/websocket.png"
   }
 ]

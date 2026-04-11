@@ -2,9 +2,49 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Outfit", Arial, Helvetica, sans-serif;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
 }
 
 html {
   scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(135deg, #0f0414 0%, #1a0a2e 50%, #16213e 100%);
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 20% 50%, rgba(124, 77, 255, 0.12) 0%, transparent 50%),
+              radial-gradient(circle at 80% 80%, rgba(0, 188, 212, 0.08) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
 }

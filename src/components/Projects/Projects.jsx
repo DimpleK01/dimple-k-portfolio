@@ -8,7 +8,10 @@ import { ProjectCard } from "./ProjectCard";
 export const Projects = () => {
   return (
     <section className={styles.container} id="projects">
-      <h2 className={styles.title}>Projects</h2>
+      <div className={styles.header}>
+        <h2 className={styles.title}>Projects</h2>
+        <p className={styles.subtitle}>Showcasing my work and creative solutions</p>
+      </div>
       <div className={styles.projects}>
         {projects.map((project, id) => {
           return <ProjectCard key={id} project={project} />;

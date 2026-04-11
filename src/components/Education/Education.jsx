@@ -5,7 +5,10 @@ import { getImageUrl } from "../../utils";
 export const Education = () => {
   return (
     <section className={styles.container} id="education">
-        <h2 className={styles.title}>Education</h2>
+        <div className={styles.header}>
+          <h2 className={styles.title}>Education</h2>
+          <p className={styles.subtitle}>Building strong foundations in computer science</p>
+        </div>
         <div className={styles.content}>
             <ul className={styles.education}>
                 <li className={styles.educationItem}>

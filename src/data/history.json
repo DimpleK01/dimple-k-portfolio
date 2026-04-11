@@ -1,25 +1,40 @@
 [
   {
-    "role": "Associate Software Engineer",
+    "role": "Software Engineer",
     "organisation": "Mobileum",
-    "startDate": "Aug, 2023",
+    "startDate": "Nov 2025",
     "endDate": "Present",
     "experiences": [
-      "Contributed to the development and enhancement of the scripting software, introducing new features that improved speed to detect issues, boosted analytical efficiency, and minimized customer disruptions.", 
-      "Worked extensively with technologies and frameworks including Java, SQL, JDBC, WebSockets, REST APIs, Maven, Object-Oriented Programming, Tomcat, and Git.",
-      "Performed detailed investigations into critical issues, implementing effective solutions that enhanced software performance."
+      "Built end-to-end functionality using Java Swing and Core Java, improving automation reliability and reducing manual script maintenance",
+      "Developed self-healing automation feature that reduced script failures by ~30% using dynamic XPath resolution",
+      "Leading Vue.js migration from Java Swing desktop application to modern web-based architecture",
+      "Enhanced system scalability through REST APIs, WebSockets, and real-time communication protocols"
     ],
     "imageSrc": "history/mobileum.png"
   },
   {
-    "role": "Internship Trainee",
+    "role": "Associate Software Engineer",
     "organisation": "Mobileum",
-    "startDate": "Aug, 2022",
-    "endDate": "Jul, 2023",
+    "startDate": "Aug 2023",
+    "endDate": "Nov 2025",
     "experiences": [
-      "Contributed to the development and testing of a streamlined drag-and-drop automation framework that enables real-time testing and monitoring of voice, messaging, and OTT app performance across diverse networks and devices remotely.",
-      "Played a key role in migrating hybrid application test cases to scripting-based test cases, earning recognition as a Team Star for outstanding performance.",
-      "Gained hands-on experience in product workflows, software development, testing methodologies, and problem-solving techniques."
+      "Collaborated on scalable component design using OOP principles, Maven, and Git workflows",
+      "Enhanced Smartphone Experience Studio automation framework with improved issue detection",
+      "Implemented Java, SQL, JDBC, REST APIs and Tomcat solutions for backend optimization",
+      "Resolved critical production issues, improving software performance by ~20%"
+    ],
+    "imageSrc": "history/mobileum.png"
+  },
+  {
+    "role": "Software Development Intern",
+    "organisation": "Mobileum",
+    "startDate": "Aug 2022",
+    "endDate": "Aug 2023",
+    "experiences": [
+      "Gained hands-on experience with full software development lifecycle and testing methodologies",
+      "Migrated hybrid test cases to script-based automation, improving execution efficiency",
+      "Contributed to real-time voice, messaging, and OTT application performance monitoring",
+      "Recognized as Team Star for outstanding performance and impactful contributions"
     ],
     "imageSrc": "history/mobileum.png"
   }
