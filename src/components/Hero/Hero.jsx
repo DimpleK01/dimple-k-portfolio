@@ -9,7 +9,7 @@ export const Hero = () => {
         <p className={styles.subtitle}>Welcome to my portfolio</p>
         <h1 className={styles.title}>Hi, I'm <span>Dimple K</span></h1>
         <p className={styles.description}>
-          Seasoned Software Engineer with 3+ years of experience building scalable automation solutions and full-stack applications. Specialized in Java, Python, and modern web technologies. I design systems that reduce failures by ~30% and improve team productivity.
+          Software Engineer with 3+ years of experience building scalable automation solutions and full-stack applications. Skilled in Java, Python, and modern web technologies, with a focus on creating reliable systems and improving development workflows.
         </p>
         <div className={styles.stats}>
           <div className={styles.stat}>
