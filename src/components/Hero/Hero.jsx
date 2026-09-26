@@ -30,7 +30,7 @@ export const Hero = () => {
             Get In Touch
           </a>
           <a
-            href="https://drive.google.com/file/d/1VOJR2l6XQkeCAa-FkEfLATC0O3YlwdFo/view?usp=sharing"
+            href="https://drive.google.com/file/d/1XsGzod0GpR7Zw4VZ8XLVszO3OqcqhjI7/view?usp=drive_link"
             className={styles.resumeBtn}
           >
             Download Resume
